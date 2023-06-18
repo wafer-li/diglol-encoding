@@ -29,7 +29,7 @@ buildscript {
 
 allprojects {
   group = "com.diglol.encoding"
-  version = "0.3.0.wafer"
+  version = "0.3.0-SNAPSHOT"
 
   repositories {
     mavenCentral()
